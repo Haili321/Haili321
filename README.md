@@ -1,5 +1,5 @@
 <h1 align="center">你好 👋, I'm Haili Yuan</h1>
-<h3 align="center">PhD Student @ University of Warwick 🇬🇧 · Researching Graph Neural Networks</h3>
+<h3 align="center">PhD Student @ University of Warwick 🇬🇧 · Graph-agnostic Clustering with GNNs</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=haili321&label=Profile%20views&color=64d2ff&style=flat" alt="profile views" />
@@ -13,6 +13,24 @@
     <img src="https://img.shields.io/badge/Portfolio-64d2ff?style=flat&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
 </p>
+
+---
+
+### 🎓 Education
+
+- 🔬 **PhD in Computer Science** · *University of Warwick* &nbsp;`(in progress)`
+  <br/>Research area: **Graph Neural Networks** — *Graph-agnostic Clustering*
+- 🌏 **Horizon Global Youth Co-Development Plan** · *Tsinghua University* &nbsp;`(Official member)`
+- 🎓 **MSc in Applied Computational Science and Engineering** · *Imperial College London*
+- 📚 **BSc in Computer Science with Business Studies** · *University of Warwick*
+
+---
+
+### 📝 Publications
+
+- 🎯 **[Street Gaussians without 3D Object Tracker](https://arxiv.org/abs/2412.05548)** — `ICCV 2025`
+  <br/><sub>Ruida Zhang, Chengxi Li, Chenyangguang Zhang, Xingyu Liu, <b>Haili Yuan</b>, Yanyan Li, Xiangyang Ji, Gim Hee Lee</sub>
+  <br/><sub>*Realistic driving-scenario scene reconstruction via Gaussian splatting — without manual 3D object pose labeling.*</sub>
 
 ---
 
