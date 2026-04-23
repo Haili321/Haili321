@@ -83,14 +83,6 @@
 
 ---
 
-### 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=haili321&theme=tokyonight&no-bg=true&margin-w=8" alt="trophies" />
-</p>
-
----
-
 <p align="center">
   <sub>💡 Feel free to explore my projects and reach out — I'm always up for a chat about tech, ML, or creative products.</sub>
 </p>
