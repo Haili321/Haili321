@@ -34,20 +34,6 @@
 
 ---
 
-### 🔥 Featured Project
-
-<p align="center">
-  <a href="https://github.com/Haili321/lobster-ai">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Haili321&repo=lobster-ai&theme=tokyonight" alt="lobster-ai" />
-  </a>
-</p>
-
-**🦞 [lobster-ai](https://github.com/Haili321/lobster-ai)** — An AI companion matchmaker combining **MBTI personality** and **Chinese BaZi (八字)** to generate a personalised AI lobster companion, complete with a tailored report and shareable poster. Built with vanilla JavaScript.
-
-👉 [**Live Demo**](https://www.dcs.warwick.ac.uk/~u1898019/lobster/)
-
----
-
 ### 🛠️ Tech Stack
 
 **Languages**
