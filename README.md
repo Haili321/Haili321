@@ -1,5 +1,5 @@
 <h1 align="center">你好 👋, I'm Haili Yuan</h1>
-<h3 align="center">A passionate developer from UK 🇬🇧 · CS Postgrad @ University of Warwick</h3>
+<h3 align="center">PhD Student @ University of Warwick 🇬🇧 · Researching Graph Neural Networks</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=haili321&label=Profile%20views&color=64d2ff&style=flat" alt="profile views" />
